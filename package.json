@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.14.0",
+    "sass": "^1.86.0"
+  }
 }
