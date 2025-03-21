@@ -15,5 +15,3 @@ Implement POTR size block.
 Implement Benefits block.
 Implement Questions block
 Implement the footer.
-
-https://github.com/danzaris/Potr_Pots/tree/develop/src/images
