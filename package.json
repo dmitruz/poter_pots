@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "parcel": "^2.14.0",
-    "sass": "^1.86.0"
+    "sass": "^1.86.0",
+    "slick-carousel": "^1.8.1"
   }
 }
